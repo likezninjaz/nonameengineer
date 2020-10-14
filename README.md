@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### I’m currently working on 🚀 
+- [Todo app](https://github.com/nonameengineer/todo-app)
+- [Pizzaiols](https://github.com/nonameengineer/pizzaiols)
+- [Spotfy Replication](https://github.com/nonameengineer/spotify-replication)
+
+#### 💬 How to reach me:
+- mail: ruslanusm6@gmail.com
+- telegram: nonameengineer
+
 <!--
 **nonameengineer/nonameengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
