@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### I’m currently working on 🚀 
-- [Todo app](https://github.com/nonameengineer/todo-app)
-- [Pizzaiols](https://github.com/nonameengineer/pizzaiols)
-- [Spotfy Replication](https://github.com/nonameengineer/spotify-replication)
+- [Todo app / Angular, React, JS, Android, iOS](https://github.com/nonameengineer/todo-app)
+- [Pizzaiols / Angular, React](https://github.com/nonameengineer/pizzaiols)
+- [Spotfy Replication / React](https://github.com/nonameengineer/spotify-replication)
 
 #### 💬 How to reach me:
 - mail: ruslanusm6@gmail.com
