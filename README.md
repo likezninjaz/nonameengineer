@@ -4,6 +4,7 @@
 - [TodoApp / Angular, React, JS, Android, iOS](https://github.com/nonameengineer/todo-app)
 - [Pizzaiols / Angular - NgRx, React - Redux](https://github.com/nonameengineer/pizzaiols)
 - [Spotfy Replication / React](https://github.com/nonameengineer/spotify-replication)
+- [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
 
 #### 💬 How to reach me:
 - mail: ruslanusm6@gmail.com
