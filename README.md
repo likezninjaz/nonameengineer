@@ -14,6 +14,7 @@
 - mail: ruslanusm6@gmail.com
 - telegram: nonameengineer
 
+![](https://www.codewars.com/users/nonameengineer/badges/small)
 <!--
 **nonameengineer/nonameengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
