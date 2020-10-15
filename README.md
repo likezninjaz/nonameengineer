@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I’m currently working on 🚀 
-- [Todo app / Angular, React, JS, Android, iOS](https://github.com/nonameengineer/todo-app)
+- [TodoApp / Angular, React, JS, Android, iOS](https://github.com/nonameengineer/todo-app)
 - [Pizzaiols / Angular - NgRx, React - Redux](https://github.com/nonameengineer/pizzaiols)
 - [Spotfy Replication / React](https://github.com/nonameengineer/spotify-replication)
 
