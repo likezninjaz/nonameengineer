@@ -7,8 +7,8 @@
 - [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
 
 #### Popular ⚡
-- [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
 - [KotlinStream Theme / VS Code](https://github.com/nonameengineer/kot-stream-theme-vscode)
+- [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
 
 #### 💬 How to reach me:
 - mail: ruslanusm6@gmail.com
