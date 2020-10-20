@@ -5,6 +5,7 @@
 - [Pizzaiols / Angular - NgRx, React - Redux](https://github.com/nonameengineer/pizzaiols)
 - [Spotfy Replication / React](https://github.com/nonameengineer/spotify-replication)
 - [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
+- [React video call(Agora)](https://github.com/nonameengineer/react-video-call)
 
 #### Popular ⚡
 - [KotlinStream Theme / VS Code](https://github.com/nonameengineer/kot-stream-theme-vscode)
