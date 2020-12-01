@@ -3,7 +3,7 @@
 #### I’m currently working on
 - [TodoApp / Angular, React, JS, Android, iOS](https://github.com/nonameengineer/todo-app)
 - [Pizzaiols / Angular - NgRx, React - Redux](https://github.com/nonameengineer/pizzaiols)
-- [Spotfy Replication / React](https://github.com/nonameengineer/spotify-replication)
+- [Spotfy / React](https://github.com/nonameengineer/spotify)
 - [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
 - [React video call(Agora)](https://github.com/nonameengineer/react-video-call)
 
