@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 #### I’m currently working on
-- [TodoApp / Angular, React, JS, Android, iOS](https://github.com/nonameengineer/todo-app)
-- [Pizzaiols / Angular - NgRx, React - Redux](https://github.com/nonameengineer/pizzaiols)
-- [Spotfy / React](https://github.com/nonameengineer/spotify)
-- [Rider - Mobile taxi client / Android](https://github.com/nonameengineer/rider-mobile-taxi-client)
+- [TodoApp](https://github.com/nonameengineer/todo-app)
+- [Pizzaiols](https://github.com/nonameengineer/pizzaiols)
+- [Spotfy](https://github.com/nonameengineer/spotify)
+- [Rider](https://github.com/nonameengineer/rider-mobile-taxi-client)
 - [React video call(Agora)](https://github.com/nonameengineer/react-video-call)
 
 #### Popular ⚡
